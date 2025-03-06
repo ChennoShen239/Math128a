@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSizeAction": true,
+  "baseFontSize": 21,
+  "interfaceFontFamily": "Cambria Math",
+  "nativeMenus": false
+}
